@@ -1,5 +1,4 @@
 # Temp file ignoring
-*.txt
 .DS_STORE
 *.zip
 *.gz
